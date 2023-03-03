@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to record a new bug/defect
-title: "[Code] / [Document]"
+title: "[Application] / [Document]"
 labels: bug/report
 assignees: XiangLongD
 
