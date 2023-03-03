@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to record a new bug/defect
 title: "[BUG]"
-labels: ''
-assignees: ''
+labels: bug/report
+assignees: XiangLongD
 
 ---
 
