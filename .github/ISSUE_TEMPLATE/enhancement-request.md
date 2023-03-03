@@ -1,8 +1,8 @@
 ---
 name: Enhancement request
 about: Create a request for feature/ci enhancement
-title: ''
-labels: enhancement/ci, enhancement/feature
+title: "[Feature] / [CI]"
+labels: enhancement/request
 assignees: ''
 
 ---
