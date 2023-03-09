@@ -65,7 +65,6 @@ R15: View participants' session info
 
 ## Test Case Specifications
 
----
 ### T0 (Template)
 
 Status (Waiting for feature/Pass/Fail): __Pass__  
